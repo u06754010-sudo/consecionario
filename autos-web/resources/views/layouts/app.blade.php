@@ -45,7 +45,7 @@
 
 </div>
 <footer class="text-center mt-5 p-3 bg-dark text-white">
-© 2026 Autos Web - Proyecto Johann Hernandez 
+© 2026 Autos Web - Proyecto Johann Hernandez y Andres Recalde 
 </footer>
 </body>
 </html>
